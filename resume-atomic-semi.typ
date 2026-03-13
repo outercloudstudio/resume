@@ -82,8 +82,8 @@
 )
 - Developed gameplay systems in TypeScript
 - Developed official Disney x Minecraft and Disney x SpongeBob DLCs
-- Lead developement of important systems
-- Content reached millions of player
+- Lead development of important systems
+- Content reached millions of players
 
 #work(
   title: "Minecraft Bedrock Developer",
